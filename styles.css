@@ -1,0 +1,45 @@
+* {
+    box-sizing:border-box;
+}
+
+header{
+    display:flex;
+    align-items:center;
+    width:auto;
+    gap:1rem;
+    background-color:aliceblue;
+}
+
+h1{
+    display:block;
+    color:rgb(98, 42, 42);
+    font-family:Arima Madurai;
+    width:100%;
+    text-align:center;
+}
+
+.subheading{
+    display:block;
+    color:rgb(98, 42, 42);
+    font-family:Arima Madurai;
+    width:100%;
+    position:fixed;
+    top:40px;
+    padding:10px 0;
+    text-align:center;
+}
+
+main{
+    background-color:antiquewhite;
+    display:flex;
+    gap:2rem;
+}
+
+section h2{
+    background-color:rgb(236, 152, 197);
+    color:white;
+    font-family:Arima Madurai;
+    text-align:center;
+    margin:0;
+}
+
