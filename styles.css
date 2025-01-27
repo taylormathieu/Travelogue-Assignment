@@ -19,7 +19,7 @@ h1{
 }
 
 .subheading{
-    position:fixed;
+    position:absolute;
     display:block;
     font-family:Arima Madurai;
     color:rgb(98, 42, 42);
@@ -37,8 +37,7 @@ main{
 
 img{
     width:300px;
-    height:350px;
-    
+    height:350px;  
 }
 
 section h2{
