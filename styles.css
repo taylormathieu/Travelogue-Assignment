@@ -17,7 +17,7 @@ h1{
     width:100%;
     text-align:center;
 }
-
+/* remember: id's are individual things, classes are many things */
 .subheading{
     position:absolute;
     display:block;
@@ -36,8 +36,9 @@ main{
 }
 
 img{
-    width:300px;
-    height:350px;  
+    width:450px;
+    height:500px; 
+    border:3px solid white;
 }
 
 section h2{
@@ -77,5 +78,6 @@ footer{
     text-align: center;
     padding:15px;
 }
+
 
 
